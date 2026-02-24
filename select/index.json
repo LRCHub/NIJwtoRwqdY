@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "無垢な季節",
+  "base_artist": "ゲスの極み乙女。",
+  "createdAt": "2026-02-24T13:47:23.393761Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無垢な季節",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_無垢な季節_ゲスの極み乙女。.txt"
+    }
+  ]
+}
